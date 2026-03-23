@@ -37,10 +37,15 @@ The goal is to group similar customers together to better understand purchasing 
 
 ---
 
-## Visualization
+## Visualizations
 
-- Elbow curve to observe optimal k  
-- Silhouette scores comparison  
-- Scatter plot of clusters (Income vs Spending Score)
+### Elbow Method
+![Elbow](images/elbow.png)
+
+### Silhouette Scores
+![Silhouette](images/silhouette.png)
+
+### Customer Segments
+![Clusters](images/clusters.png)
 
 ---
