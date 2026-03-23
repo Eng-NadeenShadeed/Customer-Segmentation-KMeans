@@ -49,3 +49,9 @@ The goal is to group similar customers together to better understand purchasing 
 ![Clusters](images/clusters.png)
 
 ---
+
+## Example Output
+
+The model selects the optimal number of clusters and prints a summary:
+
+![Clustering Output](images/output.png)
